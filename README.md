@@ -3,6 +3,7 @@
 Laboratorio 4 (SQL 1/2) del curso **ICN-292 Sistemas de Información para la Gestión**,
 
 **Autor:** Diego Victoriano Rodríguez
+
 **Profesores:** José Miguel González P. · José Luis Sáez T. · Patricio Cifuentes
 
 ## Descripción
